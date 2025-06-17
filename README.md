@@ -4,7 +4,7 @@
 - A recent CS graduate, aspiring Software Engineer👩🏻‍💻
 - Love feeding the machine with lasrge datasets and seeing the visualizations📈
 - Nothing makes me happier than **squashing a bug**🐞 
-- Currently working as a **lead codind instructor** @ Code Ninjas🥷🏻, 
+- Currently working as a **lead coding instructor** @ Code Ninjas🥷🏻, 
 
 ## 🛠️ Top Skills & Technologies
 - Python
