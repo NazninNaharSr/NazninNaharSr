@@ -23,7 +23,7 @@ Always learning, always building. "Code is poetry."
 
 ## 🌐 Social Links
 - [LinkedIn](https://www.linkedin.com/in/naznin-nahar-614653177/)
-- [Personal Website](https://yourwebsite.com)
+- [Personal Website](https://naznin-nahar.netlify.app/)
 
 ## 🎉 Fun Facts or Hobbies
 - I love hiking and coffee!
