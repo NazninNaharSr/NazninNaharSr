@@ -15,9 +15,10 @@
 - Git & GitHub Actions
 
 ## 🌟 Favorite Projects or Repositories
-- [Awesome-Project](https://github.com/YourUsername/awesome-project): A curated list of awesome things!
-- [ML-Toolkit](https://github.com/YourUsername/ml-toolkit): Useful tools for machine learning workflows.
-
+  **Mini Games**
+- [T-REX🦖](nazninnaharsr.github.io/t-rex/)
+- [Pong Game🎾](https://nazninnaharsr.github.io/pongGame/)
+  
 ## 💡 Short Bio or Personal Motto
 Always learning, always building. "Code is poetry."
 
