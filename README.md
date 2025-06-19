@@ -19,7 +19,7 @@
 - [T-REX🦖](https://nazninnaharsr.github.io/t-rex/)
 - [Pong Game🎾](https://nazninnaharsr.github.io/pongGame/)
   
-## 💡 Short Bio or Personal Motto
+## 💡 Personal Motto
 Always learning, always building. "Code is poetry."
 
 ## 🌐 Social Links
@@ -29,10 +29,12 @@ Always learning, always building. "Code is poetry."
 ## 🎉 Fun Facts or Hobbies
 - I love hiking and coffee!
 - Amateur photographer 📸
-- like Knitting🧶
+- Like Knitting🧶
 
 ## 🤝 Open to Collaborate!
 Always happy to connect and work on meaningful open-source projects. Reach out!!
-[Gmail](nazninns58@gmail.com)
+![ContactMeGIF](https://github.com/user-attachments/assets/dd0554cc-7f29-4d18-9dec-ebacd227503d)[Gmail](nazninns58@gmail.com)
+
+
 
 ---
