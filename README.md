@@ -16,7 +16,7 @@
 
 ## 🌟 Favorite Projects or Repositories
   **Mini Games**
-- [T-REX🦖](nazninnaharsr.github.io/t-rex/)
+- [T-REX🦖](https://nazninnaharsr.github.io/t-rex/)
 - [Pong Game🎾](https://nazninnaharsr.github.io/pongGame/)
   
 ## 💡 Short Bio or Personal Motto
