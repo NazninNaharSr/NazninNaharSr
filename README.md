@@ -5,6 +5,7 @@
 - Love feeding the machine with large datasets and seeing the visualizations📈
 - Nothing makes me happier than **squashing a bug**🐞 
 - Currently working as a **lead coding instructor** @ Code Ninjas🥷🏻
+- Lead Coach @ **Lego FLL** 🤖
 
 ## 🛠️ Top Skills & Technologies
 - Python
