@@ -33,6 +33,9 @@ Always learning, always building. "Code is poetry."
 - Like Knitting🧶
 - Love playing stickman-hook on [Poki](https://poki.com/en/g/stickman-hook)
 
+## 🏆 Awards
+ - **Best Coach/ Mentor Award** From FLL 2025-2026 Season 
+
 ## 🤝 Open to Collaborate!
 Always happy to connect and work on meaningful open-source projects. Reach out!!
 ![ContactMeGIF](https://github.com/user-attachments/assets/dd0554cc-7f29-4d18-9dec-ebacd227503d)[Gmail](nazninns58@gmail.com)
